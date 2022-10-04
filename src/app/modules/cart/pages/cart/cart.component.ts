@@ -13,3 +13,10 @@ export class CartComponent implements OnInit {
   }
 
 }
+
+//pano na haha hahahah
+//ok na yan
+//join ka sa audio sir marvz
+//how? wait restart ko ang call
+//accept
+//naka web ka try mo mag open vs studio code
